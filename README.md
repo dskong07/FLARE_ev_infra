@@ -1,4 +1,5 @@
-segtest.py includes the code for trivial segmentation on a given image in grayscale, developed as preliminary viability testing for semantic segmentation.
-semseg folder includes notebook and code, as well as partial saved models (full model size too large to upload), for a semantic segmentation model built on the base of Nvidia's mit-b0 lightweight transformer model, and trained on the hugging-face semantic-sidewalk dataset.
-the notebook file included in semseg includes all requirements and steps for external frameworks to function.
-environment.yml file is included for the purposes of reproducibility and testing
+- segtest.py includes the code for trivial segmentation on a given image in grayscale, developed as preliminary viability testing for semantic segmentation.
+- semseg folder includes notebook and code, as well as partial saved models (full model size too large to upload), for a semantic segmentation model built on the base of Nvidia's mit-b0 lightweight transformer model, and trained on the hugging-face semantic-sidewalk dataset.
+- the notebook file included in semseg includes all requirements and steps for external frameworks to function.
+- environment.yml file is included for the purposes of reproducibility and testing
+- a publicly available repo for our dataset, including annotations and masks, can be found at https://app.segments.ai/dskong07/chargers/samples
