@@ -2,4 +2,8 @@
 - semseg folder includes notebook and code, as well as partial saved models (full model size too large to upload), for a semantic segmentation model built on the base of Nvidia's mit-b0 lightweight transformer model, and trained on the hugging-face semantic-sidewalk dataset.
 - the notebook file included in semseg includes all requirements and steps for external frameworks to function.
 - environment.yml file is included for the purposes of reproducibility and testing
-- a publicly available repo for our dataset, including annotations and masks, can be found at https://app.segments.ai/dskong07/chargers/samples
+- variations for publicly available repos for our dataset, including annotations and masks, can be found at
+  - https://app.segments.ai/dskong07/chargers/samples (including all unlabeled/annotated images and filetypes)
+  - https://app.segments.ai/dskong07/chargers-full (only jpeg, annotated and labeled images; used in the training of our most up-to-date model)
+- publicly available model hosted on Hugging Face, found at https://huggingface.co/dskong07/segformer-b0-finetuned-segments-chargers-2-15
+- 
