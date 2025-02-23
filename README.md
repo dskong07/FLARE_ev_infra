@@ -6,4 +6,4 @@
   - https://app.segments.ai/dskong07/chargers/samples (including all unlabeled/annotated images and filetypes)
   - https://app.segments.ai/dskong07/chargers-full (only jpeg, annotated and labeled images; used in the training of our most up-to-date model)
 - publicly available model hosted on Hugging Face, found at https://huggingface.co/dskong07/segformer-b0-finetuned-segments-chargers-2-15
-- 
+
