@@ -43,7 +43,7 @@ def edge(path):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--i', default='default.png', help=f'image path')
+    parser.add_argument('--i', default='example_data/default-trivialseg.jpg', help=f'image path')
     parser.add_argument('--func', default='seg', help='contour or edge')
     args = parser.parse_args()
 
