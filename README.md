@@ -7,7 +7,7 @@ Requirements for reproducibility are included in an environment file, and additi
   -  custom_segformer_training, containing the creation of public dataset repos, as well as the development, training, and deployment of our trained semantic segmentation model trained on our gathered dataset.
   -  upgraded_model_template, a notebook containing a template for our team to use when testing alternative baseline transformers to train.
 - Classification Models folder contains notebooks/code for the following:
-  -  The development, training, and deployment of binary inference models to determine broken-ness of the cables, screens, and plugs on ev chargers.
+  -  The development, training, and deployment of binary inference models to determine broken-ness of the cables, service availability (oos, body damage, etc), screens, and plugs on ev chargers.
   -  The cleaning and generation of public dataset repos used to train each individual model.
 - the notebook files should includes all requirements and steps for external frameworks to function.
 - environment.yml file is included for the purposes of reproducibility and testing
