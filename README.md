@@ -18,3 +18,6 @@ Requirements for reproducibility are included in an environment file, and additi
 
 example of preliminary training output:\
 ![image](https://github.com/user-attachments/assets/a541db33-6169-40e1-9044-4c973a30012d)
+
+example of final trained model output:\
+![image](https://github.com/user-attachments/assets/f2842610-d117-4ca0-a9fc-1bcbca10af60)
