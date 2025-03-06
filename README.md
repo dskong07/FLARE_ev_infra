@@ -15,7 +15,6 @@ Requirements for reproducibility are included in an environment file, and additi
 - The final version of our semantic segmentation model, utilizing mit-b3, can be found at: https://huggingface.co/irvingz/segformer-b3-finetuned-segments-chargers-full-v3.1
   - https://app.segments.ai/dskong07/chargers/samples (including all unlabeled/annotated images and filetypes)
   - https://app.segments.ai/dskong07/chargers-full (only jpeg, annotated and labeled images; used in the training of our most up-to-date model)
-- publicly available model hosted on Hugging Face, found at https://huggingface.co/dskong07/segformer-b0-finetuned-segments-chargers-2-15
 
 example of preliminary training output:\
 ![image](https://github.com/user-attachments/assets/a541db33-6169-40e1-9044-4c973a30012d)
