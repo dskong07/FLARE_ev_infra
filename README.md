@@ -12,7 +12,7 @@ Requirements for reproducibility are included in an environment file, and additi
 - the notebook files should includes all requirements and steps for external frameworks to function.
 - environment.yml file is included for the purposes of reproducibility and testing
 - variations for publicly available repos for our dataset, including annotations and masks, for all datasets and models used can be found at: https://huggingface.co/dskong07
-     
+- The final version of our semantic segmentation model, utilizing mit-b3, can be found at: https://huggingface.co/irvingz/segformer-b3-finetuned-segments-chargers-full-v3.1
   - https://app.segments.ai/dskong07/chargers/samples (including all unlabeled/annotated images and filetypes)
   - https://app.segments.ai/dskong07/chargers-full (only jpeg, annotated and labeled images; used in the training of our most up-to-date model)
 - publicly available model hosted on Hugging Face, found at https://huggingface.co/dskong07/segformer-b0-finetuned-segments-chargers-2-15
