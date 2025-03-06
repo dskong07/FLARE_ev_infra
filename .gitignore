@@ -8,3 +8,4 @@ config.json
 preprocessor_config.json
 training_args.bin
 plug-classif-model
+cord-classif-model
