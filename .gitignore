@@ -3,3 +3,8 @@ screen-classif-model
 segformer-b0-finetuned-segments-chargers-outputs
 segformer-b1-finetuned-segments-chargers-outputs-v0.1
 wandb
+test-segformer-b0-segments-sidewalk-finetuned
+config.json
+preprocessor_config.json
+training_args.bin
+plug-classif-model
