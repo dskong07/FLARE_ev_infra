@@ -18,7 +18,8 @@ Requirements for reproducibility are included in an environment file, and additi
   - https://app.segments.ai/dskong07/chargers-full (only jpeg, annotated and labeled images; used in the training of our most up-to-date model)
 
 example of preliminary training output:\
-![image](https://github.com/user-attachments/assets/a541db33-6169-40e1-9044-4c973a30012d)
+![image](https://github.com/user-attachments/assets/a6ca6746-69df-44d6-8b82-a374d9bdc66a)
+
 
 example of final trained model output:\
 ![image](https://github.com/user-attachments/assets/f2842610-d117-4ca0-a9fc-1bcbca10af60)
