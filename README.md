@@ -5,6 +5,7 @@ Requirements for reproducibility are included in an environment file, and additi
   -  Binary Segmentation model testing (contours and edges) in seg_test.py
   -  trial_model, a trial version of a semantic segmentation model built on the base of Nvidia's mit-b0 lightweight transformer model, and trained on the hugging-face semantic-sidewalk dataset, to determine viability of approach and use as a template if promising.
   -  custom_segformer_training, containing the creation of public dataset repos, as well as the development, training, and deployment of our trained semantic segmentation model trained on our gathered dataset.
+  -  custom_segformer_b3_training, containing the training of model on our gathered dataset using mit-b3 as baseline.
   -  upgraded_model_template, a notebook containing a template for our team to use when testing alternative baseline transformers to train.
 - Classification Models folder contains notebooks/code for the following:
   -  The development, training, and deployment of binary inference models to determine broken-ness of the cables, service availability (oos, body damage, etc), screens, and plugs on ev chargers.
