@@ -1,9 +1,9 @@
 ## Explore [FLARE](https://jingchenggu.github.io/FLARE-website/)
 
 This repo contains work done by Daniel Kong, Ethan Deng, Jason Gu, Irving Zhao on the DSC 180B UCSD capstone project.\
-Requirements for reproducibility are included in an environment file, and additionally include a Hugging Face account and Segments.ai account (for login tokens via api).
+Requirements for reproducibility are included in an environment file (environment.yml), and require a Hugging Face account and Segments.ai account (for login tokens via api).
 
-- Semantic Segmentation Models folder contains notebooks/code for the following:
+- The Semantic Segmentation Models folder contains notebooks/code for the following:
   -  Binary Segmentation model testing (contours and edges) in seg_test.py
   -  trial_model, a trial version of a semantic segmentation model built on the base of Nvidia's mit-b0 lightweight transformer model, and trained on the hugging-face semantic-sidewalk dataset, to determine viability of approach and use as a template if promising.
   -  custom_segformer_training, containing the creation of public dataset repos, as well as the development, training, and deployment of our trained semantic segmentation model trained on our gathered dataset.
