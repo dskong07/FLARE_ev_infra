@@ -1,3 +1,5 @@
+## Explore [FLARE](https://jingchenggu.github.io/FLARE-website/)
+
 This repo contains work done by Daniel Kong, Ethan Deng, Jason Gu, Irving Zhao on the DSC 180B UCSD capstone project.\
 Requirements for reproducibility are included in an environment file, and additionally include a Hugging Face account and Segments.ai account (for login tokens via api).
 
