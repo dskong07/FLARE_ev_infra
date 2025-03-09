@@ -1,4 +1,4 @@
-# Explore [FLARE on our website](https://jingchenggu.github.io/FLARE-website/)!
+# Explore our [FLARE website](https://jingchenggu.github.io/FLARE-website/)!
 
 This repository contains work by **Daniel Kong, Ethan Deng, Jason Gu, and Irving Zhao** as part of the **DSC 180B UCSD Capstone Project**.
 
