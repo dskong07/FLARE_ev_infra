@@ -23,7 +23,13 @@ The **`semantic_segmentation_models`** folder includes:
 The **`classifier_models`** folder includes: 
 
 - **Binary inference models** for detecting cable damage, service availability, screen condition, and plug functionality.  
-- Public dataset cleaning & preparation for model training.  
+- Public dataset cleaning & preparation for model training.
+
+## Demo  
+
+The **`demo-model`** notebook includes: 
+
+- **pipeline code** for utilizing the Hugging Face api to perform inference on locally stored image data, with example uses included.
 
 ## Final Model  
 
