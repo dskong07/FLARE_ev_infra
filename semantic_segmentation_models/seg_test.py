@@ -5,7 +5,6 @@ import argparse
 
 def seg(img_path):
 
-    #cv2 will read the image in the given path and turn it to grayscale
     image = cv2.imread(img_path)
     cv2.waitKey(0)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -43,8 +42,6 @@ def edge(path):
     plt.show()
 
 def main():
-
-    #the parser will allow you to determine any example image you like. Feel free to try it out!
     parser = argparse.ArgumentParser()
     parser.add_argument('--i', default='example_data/default-trivialseg.jpg', help=f'image path')
     parser.add_argument('--func', default='seg', help='contour or edge')
